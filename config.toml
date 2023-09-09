@@ -95,7 +95,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Tiago"
+      name = "Tiago Lubiana"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -186,7 +186,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "https://lubianat.github.io/images/ronin.jpeg"
       #  title shown in home page (HTML format is supported)
       title = "Tiago Lubiana"
       # subtitle shown in home page (HTML format is supported)
@@ -261,7 +261,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Dribbble = ""
     Wordpress = ""
     Vine = ""
-    Googlescholar = ""
+    Googlescholar = "1bOZ5cAAAAJ"
     Researchgate = ""
     Mastodon = ""
     Thingiverse = ""
@@ -276,13 +276,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     ORCID = "0000-0003-2473-2313"
     Pleroma = ""
     Kaggle = ""
-    MediaWiki= ""
+    MediaWiki= "https://www.wikidata.org/wiki/User:TiagoLubiana"
     Plume = ""
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
-    RSS = true # 
+    Email = "tiago.lubiana.alves@usp.br"
+    RSS = false # 
 
   #  Page global config
   [params.page]
